@@ -1,2 +1,2 @@
 # Pong
-Pong game developed by me!
+A pong clone developed by me!

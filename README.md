@@ -1,2 +1,2 @@
 # Pong
-Pong game made by Waveless!
+Pong game developed by me!
